@@ -12,5 +12,6 @@ int main() {
     strcat(str1, str2);  // Append str2 to str1
     printf("Concatenated: %s\n", str1); 
     printf("Length: %ld\n", strlen(str1)); //after appending
+    printf("Happy Friday!\n");
     return 0;
 }
